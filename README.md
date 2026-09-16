@@ -1,34 +1,28 @@
-<h1 align="center">Hi, I'm Opjjjidj 👋</h1>
+<div align="center">
 
-<p align="center">
-Minecraft server developer & full-stack web developer<br/>
-Paper API · PacketEvents · Anti-Cheat · Crystal PvP · Plugin Monetization
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=180&section=header&text=OPJJJIDJ&fontColor=00fff2&fontSize=60&fontAlignY=40&desc=Minecraft%20Dev%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://www.youtube.com/@Mralowww"><img src="https://img.shields.io/badge/YouTube-Mralowww-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@mralowww"><img src="https://img.shields.io/badge/TikTok-mralowww-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-opjjjidj-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF2&center=true&vCenter=true&width=600&lines=Paper+API+%2F+PacketEvents;Server-Side+Anti-Cheat;Full-Stack+Web+Development" /></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white" />
-</p>
+<a href="https://www.youtube.com/@Mralowww"><img src="https://img.shields.io/badge/YouTube-Mralowww-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f2027" /></a>
+<a href="https://www.tiktok.com/@mralowww"><img src="https://img.shields.io/badge/TikTok-mralowww-00fff2?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0f2027" /></a>
+<img src="https://img.shields.io/badge/Discord-opjjjidj-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f2027" />
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opopjjjidj-a11y&show_icons=true&theme=radical&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opopjjjidj-a11y&layout=compact&theme=radical&hide_title=true" height="165" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,nodejs,js,html,css,git,docker&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opopjjjidj-a11y&theme=radical&hide_border=true" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=opopjjjidj-a11y&style=for-the-badge&color=blueviolet" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=opopjjjidj-a11y&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=00fff2&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opopjjjidj-a11y&layout=compact&theme=tokyonight&hide_title=true&border_color=00fff2&bg_color=0d1117" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=opopjjjidj-a11y&theme=tokyonight&hide_border=true&border=00fff2&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=opopjjjidj-a11y&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff" width="95%"/>
+
+<img src="https://komarev.com/ghpvc/?username=opopjjjidj-a11y&style=for-the-badge&color=00fff2&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
